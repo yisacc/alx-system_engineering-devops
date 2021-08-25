@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\"(Ôo)'"
+find . -type d -not -name '.' | wc -l
